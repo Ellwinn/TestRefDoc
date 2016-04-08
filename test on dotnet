@@ -78,7 +78,11 @@ NUnit是xUnit家族种的第4个主打产品,完全由C#语言来编写,并且�
 如果你还没有下载,可以到http://www.nunit.org/去下载.
 2.1 NUnit的介绍 
    Ok,下面正式讲解NUnit.在讲解之前,看看几张图片:
-      ![alt tag](https://github.com/Ellwinn/TestRefDoc/blob/master/test%20on%20dotnet/to/NUnit.1.jpg)
+
+![alt tag](https://github.com/Ellwinn/TestRefDoc/blob/master/test%20on%20dotnet/to/NUnit.1.jpg)
+
+![Alt text](https://github.com/Ellwinn/TestRefDoc/blob/master/test%20on%20dotnet/to/NUnit.1.jpg?raw=true "Optional Title")
+
 图1  NUnit运行的效果
 
 
